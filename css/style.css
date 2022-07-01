@@ -37,9 +37,9 @@ main{
     grid-gap: 10px;
 }
 
-.primero{
+.izquierda{
     grid-row: 1/3;
 }
-.segundo{
+.abajo{
     grid-column: 2/4;
 }
